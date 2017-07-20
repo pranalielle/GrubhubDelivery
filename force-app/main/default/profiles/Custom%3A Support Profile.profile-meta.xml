@@ -3,6 +3,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Grubhub_Order__c.Carrier_Website__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Grubhub_Order__c.Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
