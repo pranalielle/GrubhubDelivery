@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app",
+        {
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500564118619,
+            "changeTime": 1500564118619,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500564118619,
+            "changeTime": 1500564118619,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564984017,
+            "changeTime": 1500564984017,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500564118620,
+            "changeTime": 1500564118620,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking",
+        {
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500564520023,
+            "changeTime": 1500564520023,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c\\Grubhub_Order__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c\\Grubhub_Order__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2153,
+            "modifiedTime": 1500564983994,
+            "changeTime": 1500564983994,
+            "contentHash": "60e5f748fd45acbc38bb749f3e0f9aae66e5f932"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1500564983999,
+            "changeTime": 1500564983999,
+            "contentHash": "0e4f119ff27fb23cf07b64219edbd7566f758834"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\layouts\\Grubhub_Order__c-Grubhub Order Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\layouts\\Grubhub_Order__c-Grubhub Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2083,
+            "modifiedTime": 1500564984003,
+            "changeTime": 1500564984003,
+            "contentHash": "408fd5e1c1dae94d024b0ae28526ba1eb53cc236"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 16721,
+            "modifiedTime": 1500564984009,
+            "changeTime": 1500564984009,
+            "contentHash": "7f6199220dde8abb62dffe3b3b3f475bfa68d123"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4158,
+            "modifiedTime": 1500564984011,
+            "changeTime": 1500564984011,
+            "contentHash": "4d41badffe3a0cc84c81c7b6e1c57a9205e3d01d"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4158,
+            "modifiedTime": 1500564984015,
+            "changeTime": 1500564984015,
+            "contentHash": "4d41badffe3a0cc84c81c7b6e1c57a9205e3d01d"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4496,
+            "modifiedTime": 1500564984017,
+            "changeTime": 1500564984017,
+            "contentHash": "0cb77b494866fb581e6407c9ca85044590dbd4c7"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\permissionsets\\Grubhub_Delivery.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\permissionsets\\Grubhub_Delivery.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 720,
+            "modifiedTime": 1500564984019,
+            "changeTime": 1500564984019,
+            "contentHash": "ab07adc7088c39c6b189dd420f9b2be7a056a84d"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564983994,
+            "changeTime": 1500564983994,
+            "contentHash": "ffcefa372de274ac498ae4d4b41840fd086ac1ed"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564983987,
+            "changeTime": 1500564983987,
+            "contentHash": "02863d23cae08724d04d5a6ec14aff0a9088a662"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\objects\\Grubhub_Order__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564983995,
+            "changeTime": 1500564983995,
+            "contentHash": "7546daeafe8869d18b37d2b8437a616c539efbd2"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564984002,
+            "changeTime": 1500564984002,
+            "contentHash": "0846cb21043749bdadf7444864c7ebf8540a74fc"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564984016,
+            "changeTime": 1500564984016,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pranali.lad\\Desktop\\Salesforce DX Demo\\GrubHubOrderTracking\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500564984018,
+            "changeTime": 1500564984018,
+            "contentHash": "621a9fe8802cf8806781421a96646b0a11243dbf"
+        }
+    ]
+]
